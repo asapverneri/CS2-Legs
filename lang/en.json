@@ -1,0 +1,5 @@
+{
+  "no.access": "{blue}[CS2Legs]{default} This command is only for {gold}VIP's",
+  "legs.shown": "{blue}[CS2Legs]{default} Legs are now shown.",
+  "legs.hidden": "{blue}[CS2Legs]{default} Legs are now hidden."
+} 
