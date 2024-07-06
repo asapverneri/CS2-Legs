@@ -3,8 +3,6 @@
 Simple plugin to disable lower body. It has english language available for now and config for flag, if you want to allow it for VIP's.
 Tested on Windows & Linux.
 
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/asapverneri/CS2-Legs/dev?style=for-the-badge)
-
 ---
 
 ## 📦 Installion
