@@ -3,6 +3,8 @@
 Simple plugin to disable lower body. It has english language available for now and config for flag, if you want to allow it for VIP's.
 Tested on Windows & Linux.
 
+![GitHub tag (with filter)](https://img.shields.io/github/v/tag/asapverneri/CS2-ConnectMSG?style=for-the-badge&label=Version)
+
 ---
 
 ## 📦 Installion
