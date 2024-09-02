@@ -4,6 +4,7 @@ Simple plugin to disable lower body. It has english language available for now a
 Tested on Windows & Linux.
 
 ![GitHub tag (with filter)](https://img.shields.io/github/v/tag/asapverneri/CS2-Legs?style=for-the-badge&label=Version)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/asapverneri/CS2-Legs/dev?style=for-the-badge)
 
 ---
 
